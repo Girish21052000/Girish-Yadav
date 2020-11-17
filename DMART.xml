@@ -10,10 +10,10 @@
 ]>
 
 <GROCERY>
-    <to>ROHAN</to>
+    <to>GIRISH</to>
     <from>DMART SERVICES</from>
     <type>vegetables</type>
     <price>250rs</price>
-    <subject>THANKYOU FOR VISITING</subject>
+    <subject>THANKYOU FOR VISITING PLEASE VISIT AGAIN</subject>
     <message>REGARDS DMART</message>   
 </GROCERY>
